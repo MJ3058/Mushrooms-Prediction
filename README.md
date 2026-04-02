@@ -1,3 +1,3 @@
 # Mushrooms
-##Mushrooms edibility prediction with Decision Tree ML model.
+## Mushrooms edibility prediction with Decision Tree ML model.
 Mushroom classification is important for food safety, as consuming poisonous mushrooms can be harmful. This project uses the Mushroom Classification dataset to predict whether a mushroom is edible or poisonous based on its physical characteristics, such as cap shape, color, and odor. A Decision Tree classifier is applied due to its ability to handle categorical data and provide clear, interpretable results. The model learns patterns from the dataset and makes predictions by splitting data into decision rules. This study demonstrates how machine learning can be used to solve real-world classification problems accurately and transparently.
